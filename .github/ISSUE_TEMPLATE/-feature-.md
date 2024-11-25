@@ -1,5 +1,5 @@
 ---
-name: "[Feature] 새로운 사용자 등록 기능 추가"
+name: "[Feature]"
 about: Suggest an idea for this project
 title: ''
 labels: ''
